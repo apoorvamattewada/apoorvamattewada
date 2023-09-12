@@ -14,14 +14,12 @@ Skills: PYTHON / JAVA / REACT / JS / HTML / CSS
 -  UI/UX Enthusiast
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apoorvamattewada)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvamattewada)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvamattewada&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=apoorvamattewada)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=apoorvamattewada)  
 
-![Profile views](https://gpvc.arturio.dev/apoorvamattewada)  
+ 
