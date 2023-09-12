@@ -1,6 +1,7 @@
 ### Hello! I'm Apoorva 
+[A tiny budding coder in the vast sea of computer science!]
 
-(https://i.pinimg.com/564x/b6/4e/e5/b64ee584dd8b178a8263ccd0fa8c30ca.jpg)
+![](https://i.pinimg.com/originals/05/1e/7b/051e7b594fd55e187af69884b9723945.gif)
 
 As a passionate and dedicated Computer Science student, I am currently pursuing an MS in Computer Science with a specialization in Software Engineering and Database Systems at UTA. I have a strong interest in developing Android applications and have been actively honing my skills through courses from Google and Udemy.
 
