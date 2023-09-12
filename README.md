@@ -8,7 +8,7 @@ I am currently pursuing an MS in Computer Science with a specialization in Softw
 A big fan of books, anime and indie-games!
 
 Skills: 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg]' alt='github' height='40'>]  [<img src='[[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg]' alt='github' height='40'>]  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png' alt='github' height='40'>]
  / REACT / JS / HTML / CSS
 
 # Fields of Interest
