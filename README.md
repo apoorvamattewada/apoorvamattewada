@@ -1,9 +1,11 @@
-### Hello! I'm Apoorva! 
-## A tiny budding coder in the vast sea of computer science!
+### Hello! I'm Apoorva! 👋🏻
+## A tiny budding coder in the vast sea of computer science! 💻 
 
 ![](https://i.pinimg.com/originals/05/1e/7b/051e7b594fd55e187af69884b9723945.gif)
 
-I am currently pursuing an MS in Computer Science with a specialization in Software Engineering and Database Systems at UTA. I have a strong interest in developing Android applications and have been actively honing my skills through courses from Google and Udemy.
+I am currently pursuing an MS in Computer Science with a specialization in Software Engineering and Database Systems at UTA. I have a strong interest in developing Android applications and have been actively honing my skills through courses from Google and Udemy. 
+
+A big fan of books, anime and indie-games!
 
 Skills: PYTHON / JAVA / REACT / JS / HTML / CSS
 
@@ -21,7 +23,7 @@ Skills: PYTHON / JAVA / REACT / JS / HTML / CSS
 - 🤔 I’m looking for help with understanding different perspectives to solve different problems! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apoorvamattewada)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apoorvamattewada)  [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/apoorva-siri-mattewada/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvamattewada)](https://github.com/anuraghazra/github-readme-stats)
 
