@@ -27,8 +27,8 @@ https://allpoetry.com/NeedlessToSay
 - 👯 I’m looking to collaborate on Android Studio projects, App Development, and maybe something new! 
 - 🤔 I’m looking for help with understanding different perspectives to solve different problems! 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apoorvamattewada)  [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/apoorva-siri-mattewada/)  
+# Socials
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apoorvamattewada)    [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/apoorva-siri-mattewada/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvamattewada)](https://github.com/anuraghazra/github-readme-stats)
 
